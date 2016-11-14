@@ -51,22 +51,23 @@ font-family: 'Maitree', serif;
     width: 33%;
 }
 
-#weather {
+
+#cigar img {
 
 }
 
-#robot {
+#weather img {
+    text-align: center;
+}
+
+#robot img {
 
 }
 
-#cigar {
+#tomato img {
 
 }
 
-#socket {
+#socket img {
 
-}
-
-#tomato {
-    
 }
