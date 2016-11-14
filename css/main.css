@@ -28,5 +28,10 @@ li a:hover {
 }
 
 #photoOfMe img {
-    height: 265px;
+    height: 310px;
+}
+
+#name {
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
 }
