@@ -31,7 +31,7 @@ li a:hover {
     height: 310px;
 }
 
-#name p{
-    font-family: 'Lobster Two', cursive;
+#name {
+
     text-align: center;
 }
