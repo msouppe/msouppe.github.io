@@ -24,8 +24,5 @@ li a:hover {
 
 #photoOfMe {
     text-align: center;
-}
-
-img {
-    height: 100px;
+    height: 265px !important;
 }
