@@ -39,11 +39,11 @@ li a:hover {
 
 #blah {
     font-family: 'Taviraj', serif;
-font-family: 'Libre Baskerville', serif;
-font-family: 'Maitree', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Maitree', serif;
 }
 
-row {
+.row {
     text-align: center;
 }
 
