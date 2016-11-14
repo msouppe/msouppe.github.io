@@ -32,6 +32,13 @@ li a:hover {
 }
 
 #name p{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Maitree', serif;
     text-align: center;
+    font-size: -webkit-xxx-large;
+}
+
+#blah {
+    font-family: 'Taviraj', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Maitree', serif;
 }
