@@ -42,3 +42,8 @@ li a:hover {
 font-family: 'Libre Baskerville', serif;
 font-family: 'Maitree', serif;
 }
+
+#camera{
+    text-align: center;
+    height: 75%;
+}
