@@ -21,3 +21,9 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+#photoOfMe {
+    text-align: center;
+    height: 50%;
+    width: auto;
+}
