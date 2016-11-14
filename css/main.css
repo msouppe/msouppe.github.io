@@ -1,1 +1,15 @@
+.nav {
+   position: fixed;
+   top: 0;
+   background: transparent;
+   width: 100%;
+}
 
+.navMain ul li {
+    display: inline-block;
+}
+
+p {
+    margin-top: 150px;
+    background-color: yellow;
+}
