@@ -43,6 +43,10 @@ font-family: 'Libre Baskerville', serif;
 font-family: 'Maitree', serif;
 }
 
+row {
+    text-align: center;
+}
+
 #camera {
     text-align: center;
 }
@@ -53,21 +57,22 @@ font-family: 'Maitree', serif;
 
 
 #cigar img {
-
+    padding-left: 22%;
 }
 
 #weather img {
-    
+
 }
 
 #robot img {
-
+    float: left;
+    margin-left: -7%;
 }
 
 #tomato img {
-
+    float: right;
 }
 
 #socket img {
-
+    float: left;
 }
