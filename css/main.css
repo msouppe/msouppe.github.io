@@ -80,6 +80,8 @@ li a:hover {
     background-size:cover;
     position: absolute;
     z-index: 2;
+    width:800px;
+    height:600px;
 }   
 
 .mySlides {
