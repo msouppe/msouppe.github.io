@@ -86,8 +86,6 @@ li a:hover {
 
 .mySlides {
     display:none;
-    position: absolute;
-    z-index: 2;
 }
 
 .w3-left, .w3-right, .w3-badge {
