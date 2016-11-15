@@ -78,10 +78,7 @@ li a:hover {
 #slider {
     background-image:url("../iLaptop.png");
     background-size:cover;
-    position: absolute;
-    width: 48%;
-    z-index: 1;
-
+    /*width: 48%;*/
 }   
 
 .mySlides {
