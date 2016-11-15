@@ -80,12 +80,14 @@ li a:hover {
     background-size:cover;
     position: absolute;
     width: 48%;
+    z-index: 1;
 
 }   
 
 .mySlides {
     display:none;
-    z-index: -1;
+    position: absolute;
+    z-index: 2;
 }
 
 .w3-left, .w3-right, .w3-badge {
