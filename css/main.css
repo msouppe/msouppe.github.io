@@ -79,13 +79,13 @@ li a:hover {
     background-image:url("../iLaptop.png");
     background-size:cover;
     position: absolute;
-    z-index: 2;
-    width:800px;
-    height:600px;
+    width: 48%;
+
 }   
 
 .mySlides {
     display:none;
+    z-index: -1;
 }
 
 .w3-left, .w3-right, .w3-badge {
