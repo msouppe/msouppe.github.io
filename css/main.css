@@ -79,5 +79,6 @@ li a:hover {
     text-align: center;
     background-image:url("iLaptop.png");
     background-size:cover;
+    width: 100%;
 }   
 
