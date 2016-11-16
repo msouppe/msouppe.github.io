@@ -75,6 +75,14 @@ li a:hover {
 
 }
 
+#show img {
+    width: 45%;
+}
+
+#show {
+    text-align: center;
+}
+
 .slider-container {
     background-image:url("../iLaptop.png");
     background-size:cover;
