@@ -75,10 +75,16 @@ li a:hover {
 
 }
 
-#slider {
+.slider-container {
     background-image:url("../iLaptop.png");
     background-size:cover;
     /*width: 48%;*/
+}
+
+.slider {
+    width: 50px;
+    height: 200px;
+    overflow-x: scroll;
 }   
 
 .mySlides {
