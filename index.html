@@ -19,22 +19,24 @@
   </head>
   <body>
     <div class="w3-container">
-      <h2>Slideshow Indicators</h2>
-      <p>An example of using buttons to indicate how many slides there are in the slideshow, and which slide the user is currently viewing.</p>
-    </div>
-
-    <div class="w3-content w3-display-container" style="max-width:800px">
-      <img class="mySlides" src="Weather.png" style="width:100%; display:block">
-      <img class="mySlides" src="iLaptop.png" style="width:100%">
-      <img class="mySlides" src="Cigar.png" style="width:100%">
-      <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
-        <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
-        <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
-        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
-        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+      <div class="w3-content w3-display-container" style="width:800px">
+        <div id="bkgrnd-img">
+          <img src="https://amazingcarousel.com/wp-content/uploads/amazingcarousel/4/carouselengine/skins/background-2.png">
+        </div>
+        <img class="mySlides" src="Weather.png" style="width:100%; display:block">
+        <img class="mySlides" src="iLaptop.png" style="width:100%">
+        <img class="mySlides" src="Cigar.png" style="width:100%">
+        <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+          <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+          <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+        </div>
       </div>
     </div>
+
+
 
   </body>
 </html>
