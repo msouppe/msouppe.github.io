@@ -81,6 +81,7 @@ li a:hover {
 
 #bkgrnd-img {
     text-align: center;
+    z-index: -1;
 }
 
 /*.slider-container {
