@@ -100,5 +100,8 @@ li a:hover {
 }
 
 .new-content {
-    max-width: 800px;
+    max-width: 617px;
+    top: 9%;
+    left: 37.25%;
+    position: fixed;
 }
